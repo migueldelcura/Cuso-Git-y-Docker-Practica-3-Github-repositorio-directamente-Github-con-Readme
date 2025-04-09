@@ -1,6 +1,6 @@
 # Cuso-Git-y-Docker-Practica-3-Github-repositorio-directamente-Github-con-Readme
 **Autor:** *Miguel Ángel del Cura Varas*
-**Tareas realizadas:** * *
+**Tareas realizadas:**
 3. Crea un repositorio nuevo directamente en Github, con un README.md
 - clona el repositorio en local
     git clone <url>
