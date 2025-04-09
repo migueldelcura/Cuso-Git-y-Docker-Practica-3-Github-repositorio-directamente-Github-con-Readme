@@ -11,3 +11,7 @@
 5. EXTRA: Borrar un repositorio en github
 - En settings del repositorio
 - Al final en DangerZone, Delete Repository, pide confirmaciones.
+
+**Bibliografía:**[Crurso ISMIE Git y Docker] (https://github.com/oscarnovillo/Curso-de-Git-ISMIE/blob/main/practicas/practica3.md)
+
+![Guia markdown](/assets/git.png)
